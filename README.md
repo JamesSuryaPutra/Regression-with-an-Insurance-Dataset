@@ -1,5 +1,5 @@
 # Regression with an Insurance Dataset
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c7c91072-3c4b-41ed-8415-764bc0560195)
 
 
 # Overview
